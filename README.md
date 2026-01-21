@@ -1,2 +1,0 @@
-# CompTech
-My tech portfolio
